@@ -1,0 +1,14 @@
+modbus_tcp.c:1130:13:tcp_client_handle	0	static
+modbus_tcp.c:992:13:tcp_modbusclient_send	24	static
+modbus_tcp.c:1068:14:tcp_modbusclient_sent	8	static
+modbus_tcp.c:1091:13:tcp_modbusclient_connection_close	16	static
+modbus_tcp.c:1034:14:tcp_modbusclient_poll	8	static
+modbus_tcp.c:922:14:tcp_modbusclient_recv	24	static
+modbus_tcp.c:329:6:updateModbusQueryFrame	0	static
+modbus_tcp.c:859:14:tcp_modbusclient_connected	24	static
+modbus_tcp.c:386:6:setupModbus	4	static
+modbus_tcp.c:713:6:updateModbusPayload	16	static
+modbus_tcp.c:812:6:tcp_modbusclient_connect	16	static
+modbus_tcp.c:440:6:mbTCPPoll	16	static
+modbus_tcp.c:1144:6:tcp_connection_terminate	8	static
+modbus_tcp.c:1112:13:tcp_modbusclient_error	8	static

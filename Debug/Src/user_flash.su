@@ -1,0 +1,8 @@
+user_flash.c:204:17:GetSector	0	static
+user_flash.c:81:6:FLASH_If_Init	8	static
+user_flash.c:96:10:FLASH_If_Erase	32	static
+user_flash.c:132:10:FLASH_If_Write	24	static
+user_flash.c:168:10:FLASH_If_GetWriteProtectionStatus	40	static
+user_flash.c:312:19:FLASH_If_WriteProtectionConfig	64	static
+user_flash.c:375:10:ConfigFLASHIfWrite	32	static
+user_flash.c:468:10:WriteDatatoFlash	8	static

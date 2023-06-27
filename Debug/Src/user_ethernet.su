@@ -1,0 +1,2 @@
+user_ethernet.c:113:10:updateEthLinkStatus	8	static
+user_ethernet.c:142:10:updateEthLinkStatus_1	8	static

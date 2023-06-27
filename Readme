@@ -1,0 +1,10 @@
+1)TCP changes
+2)uint8_t IP_ADDRESS[4]={192,168,0,32};
+
+26/6/23
+1)RS485 enabled
+
+27/6/23
+1)TCP enabled
+2)uSART 3 38400
+3)Slave id 10

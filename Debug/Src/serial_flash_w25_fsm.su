@@ -1,0 +1,12 @@
+serial_flash_w25_fsm.c:467:6:SFlash_Chip_Select	8	static
+serial_flash_w25_fsm.c:397:9:SFlash_Read_Status_Register	16	static
+serial_flash_w25_fsm.c:421:6:SFlash_Write_Enable	16	static
+serial_flash_w25_fsm.c:443:6:SFlash_Write_Disable	16	static
+serial_flash_w25_fsm.c:494:6:SFlash_Read	40	static
+serial_flash_w25_fsm.c:524:6:SFlash_Arrange_Read_Data	3032	static
+serial_flash_w25_fsm.c:582:8:getSFlashDataString	16	static
+serial_flash_w25_fsm.c:607:6:SFlash_Chip_Erase	16	static
+serial_flash_w25_fsm.c:45:6:SerialFlashFSM	40	static
+serial_flash_w25_fsm.c:630:6:SFlash_Read_Device_ID	40	static
+serial_flash_w25_fsm.c:694:6:Buffer_Identifier	16	static
+serial_flash_w25_fsm.c:712:6:Flash_Erase	24	static

@@ -1,0 +1,9 @@
+remote_config.c:768:13:verifyNetworkConfigData	8	static
+remote_config.c:1016:13:verifyModbus485ConfigData	16	static
+remote_config.c:1288:13:verifyModbusTCPConfigData	8	static
+remote_config.c:264:6:verifyRemoteConfiguration	24	static
+remote_config.c:335:6:parseRemoteconfig	16	static
+remote_config.c:682:6:extractNewtorkConfiguration	8	static
+remote_config.c:859:6:extractModbus485Configuration	16	static
+remote_config.c:1166:6:extractModbusTCPConfiguration	16	static
+remote_config.c:1420:6:getLastKnownConfiguration	24	dynamic
